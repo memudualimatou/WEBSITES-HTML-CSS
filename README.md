@@ -1,6 +1,6 @@
-# WEBSITES USING HTML AND CSS ONLY !
+<h1 align="center"> WEBSITES USING HTML AND CSS ONLY !</h1>
 
-<p>This repository is a group of websites built from scratch using only HTML and  CSS,Each folder ia a different project website. </p><br>
+<p align="center">This repository is a group of websites built from scratch using only HTML and  CSS,Each folder ia a different project website. </p><br>
 
 <p>Each project folder contains the html and css codes written from scratch.</p>
 
